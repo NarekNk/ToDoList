@@ -1,0 +1,26 @@
+.newTask {
+    width: 450px;
+    padding: 10px;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.cont {
+    width: 650px;
+    margin: 0 auto;
+    background-color: rgb(244, 239, 137);
+    padding: 30px;
+    margin-top: 75px;
+    min-height: 250px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h1 {
+    margin: 25px;
+}
